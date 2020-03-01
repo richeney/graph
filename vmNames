@@ -1,0 +1,7 @@
+/subscriptions/2ca40be1-7e80-4f2b-92f7-06b2123a68cc/resourceGroups/ansible_vms/providers/Microsoft.Compute/virtualMachines/vm1
+/subscriptions/2ca40be1-7e80-4f2b-92f7-06b2123a68cc/resourceGroups/ansible_vms/providers/Microsoft.Compute/virtualMachines/vm2
+/subscriptions/2ca40be1-7e80-4f2b-92f7-06b2123a68cc/resourceGroups/ansible_vms/providers/Microsoft.Compute/virtualMachines/vm3
+/subscriptions/2ca40be1-7e80-4f2b-92f7-06b2123a68cc/resourceGroups/ansible_vms/providers/Microsoft.Compute/virtualMachines/vm4
+/subscriptions/2ca40be1-7e80-4f2b-92f7-06b2123a68cc/resourceGroups/myResourceGroupAutomate/providers/Microsoft.Compute/virtualMachines/myAutomatedVM
+/subscriptions/2ca40be1-7e80-4f2b-92f7-06b2123a68cc/resourceGroups/myResourceGroupAutomate/providers/Microsoft.Compute/virtualMachines/myVMWithCerts
+
